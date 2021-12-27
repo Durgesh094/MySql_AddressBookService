@@ -1,0 +1,10 @@
+
+SET SQL_SAFE_UPDATES = 0;
+
+show databases;
+
+create database Addressbook_Service_DB;
+
+use Addressbook_Service_DB;
+
+select database();
