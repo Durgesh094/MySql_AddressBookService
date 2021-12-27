@@ -1,0 +1,5 @@
+
+insert into addressbook (firstname, lastname, address, city, state, zip, phoneno, emailid) values
+('Durgesh','Chavan','Pathardiphata','Nashik','Maharashtra','422010','7875334891','dbc@gmail.com');
+
+select * from addressbook;
