@@ -1,0 +1,5 @@
+
+UPDATE addressbook
+SET firstname = 'Duggu';
+
+select * from addressbook;
