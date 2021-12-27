@@ -1,0 +1,4 @@
+
+DELETE FROM addressbook WHERE firstname = 'Swati';
+
+select * from addressbook;
